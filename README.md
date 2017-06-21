@@ -5,23 +5,20 @@
 Visual comparison of uniform vs optimum quantization
 
 
-##Overview
-
+## Overview
 ![Overview](./Screenshots/Overview.png)
 
 
-##Uniform Comression
-
+## Uniform Compression
 ![Uniform](./Screenshots/UniformQuantization.png)
 
 
-##Optimum Compression
-
+## Optimum Compression
 ![Optimum](./Screenshots/OptimumQuantization.png)
 
 
 
-######Note:
+###### Note:
 
 *Test Audio "audioSample.wav" not given in repository*
 
