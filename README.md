@@ -5,9 +5,9 @@
 
 Program that applies Lloyd's quantization alogrithim to demonstrate the effects of lossy compression. This matlab program takes the audio sample "audioSample.wav" and generates two compressed result; uniform quantization + optimum quantiation.
 
-*Note the contrast in the SQNR (signal to noise ratio) between the two compression methods*
+*Notice the contrast in the SQNR (signal to noise ratio) between the two compression methods*
 
-Visual comparison of uniform vs optimum quantization:
+###### Visual comparison of uniform vs optimum quantization:
 
 
 ## Overview
